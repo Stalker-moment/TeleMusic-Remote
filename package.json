@@ -1,0 +1,59 @@
+{
+    "name": "Telebot-Bin",
+    "version": "1.1.0",
+    "description": "Chatbot Telegram can control IoT via API/endpoint",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "canvas": "^2.11.2",
+        "chalk": "^4.1.0",
+        "cheerio": "^1.0.0-rc.12",
+        "fg-ig": "^0.0.4",
+        "form-data": "^4.0.0",
+        "insta-dl": "^1.0.2",
+        "instagram-url-dl": "^5.1.3",
+        "moment-timezone": "^0.5.43",
+        "node-aplay": "^1.0.3",
+        "node-cron": "^3.0.2",
+        "node-fetch": "^2.6.7",
+        "node-mp3-player": "^1.0.3",
+        "path": "^0.12.7",
+        "play-sound": "^1.1.5",
+        "request": "^2.88.2",
+        "save-image": "^0.0.3",
+        "snapsave-downloader": "^6.9.5",
+        "sound-play": "^1.1.0",
+        "spottydl": "^0.2.2",
+        "telegraf": "^4.3.0",
+        "tree-kill": "^1.2.2",
+        "util": "^0.12.5",
+        "y2matejs": "^1.0.0",
+        "youtube-mp3-downloader": "^0.7.11",
+        "youtube-search-api": "^1.2.1",
+        "yt-search": "^2.10.4",
+        "ytdl-core": "^4.11.5",
+        "ytmp3dl-core": "^0.0.34"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node --trace-uncaught index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Stalker-moment/TeleBot-Bin.git"
+    },
+    "keywords": [
+        "telegram",
+        "bot",
+        "telegram-bot"
+    ],
+    "author": "TierKun",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Stalker-moment/TeleBot-Bin/issues"
+    },
+    "homepage": "https://github.com/Stalker-moment/TeleBot-Bin#readme"
+}
